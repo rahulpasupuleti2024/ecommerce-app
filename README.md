@@ -26,7 +26,7 @@ Netlify: Platfrom used for deploying and hosting the website.
 ## Installation and Setup
 To run the Book Store App locally, follow these steps:
 
-Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/]
+Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/](https://github.com/rahulpasupuleti2024/ecommerce-app/)
 
 
 
