@@ -29,6 +29,8 @@ To run the Book Store App locally, follow these steps:
 Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/](https://github.com/rahulpasupuleti2024/ecommerce-app/)
 
 ### Home Page Before Login
+![Home Page](https://github.com/rahulpasupuleti2024/ecommerce-app/assets/91516898/2a7d07bf-feb2-4bb9-b1dc-1fb5e77bccc5)
+
 
 
 
