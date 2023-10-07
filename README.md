@@ -1,5 +1,15 @@
 # ECOMMERCE APP
 
+## Deployment
+The Ecoomerce App is currently deployed on netlify. You can access the live version of the app by following this link: [Ecommerce APP](https://rahulecommercesite.netlify.app/).
+
+## Features
+The Ecommerce App provides the following features:
+
+User authentication: Users can create accounts, log in, and log out.
+Shopping cart: Users can add items to their shopping cart, view the contents of the cart and remove items.
+Checkout: Users can proceed to the checkout process, enter their shipping and payment details and complete a purchase.
+
 
 
 
