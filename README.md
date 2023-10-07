@@ -23,6 +23,11 @@ Firebase: Firebase is a fully managed backend service that gives you best-in-cla
 ### Deployment
 Netlify: Platfrom used for deploying and hosting the website.
 
+## Installation and Setup
+To run the Book Store App locally, follow these steps:
+
+Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/]
+
 
 
 
