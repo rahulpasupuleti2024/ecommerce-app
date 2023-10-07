@@ -34,6 +34,14 @@ Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/](htt
 ### Home Page After Login with items
 ![Homepage11](https://github.com/rahulpasupuleti2024/ecommerce-app/assets/91516898/c365d889-0a80-45a6-a29c-0b8709d4cf87)
 
+### Checkout Page
+![checkout page](https://github.com/rahulpasupuleti2024/ecommerce-app/assets/91516898/cf65502d-b2b4-4b06-8d3a-06d17b5cf27d)
+
+### Customer Details Page
+![coustomer](https://github.com/rahulpasupuleti2024/ecommerce-app/assets/91516898/088664dc-8027-410d-98a4-aee6eb13831f)
+
+
+
 
 
 
